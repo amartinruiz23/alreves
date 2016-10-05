@@ -1,7 +1,7 @@
 #include <fstream>
 #include <iostream>
 using namespace std;
-
+//ayy
 int main(int argc, char* argv[]){
   fstream f;
   char c;
